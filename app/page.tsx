@@ -177,7 +177,7 @@ export default function Home() {
                             <A href="https://www.vad.ricky0123.com/">VAD</A>,
                             and <A href="https://vercel.com">Vercel</A>.{" "}
                             <A
-                                href="https://github.com/ai-ng/swift"
+                                href="https://github.com/M-Awwab-Khan/Linguo"
                                 target="_blank"
                             >
                                 Learn more
